@@ -1,0 +1,20 @@
+Set Up the Angular Project
+
+Angular CLI: 19.0.6
+Node: 18.20.5
+Package Manager: npm 10.8.2
+OS: win32 x64
+
+Angular: 19.0.5
+
+
+Install node if not install
+
+Install Angular CLI (if not already installed):
+>npm install -g @angular/cli
+
+
+Run the Application:
+Serve the Angular application:
+
+>ng serve
